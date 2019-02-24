@@ -28,11 +28,11 @@
 
 
 ### Why theses privileges?
-* Inventory - needs to manage products and product lines
-* Bookkeeping - just needs to be able to view oders & details
-* HR - they are managing employees and offices
-* Sales - in theory only needs to create orders but they should also be able to correct their mistakes in orders wihtout having to contact IT
-* IT - needs all access because they are IT
+* Inventory - So product lines and products could be manageable
+* Bookkeeping - to view orders & details
+* HR - Resposible for employees and offices
+* Sales - Main work is to make orders but also to edit the orders without bothering IT.
+* IT - Have all access to IT
 
 # Exercise 2 - logging
 ## Creating users:
@@ -74,5 +74,5 @@
 
 
 # Exercise 3 - backup and recovery
-I did a logical dump using mysqldump.
+Done logical dump using mysqldump.
 
