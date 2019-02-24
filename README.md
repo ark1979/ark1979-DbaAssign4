@@ -1,8 +1,12 @@
 # ark1979-DbaAssign4
 Excercise 1 - user privileges
+
 Inserting users
+
 CREATE USER 'Inventory'@'localhost' IDENTIFIED BY 'inv123';
+
 CREATE USER 'Bookkeeping'@'localhost' IDENTIFIED BY 'book123';
+
 CREATE USER 'hr'@'localhost' IDENTIFIED BY 'hr123';
 CREATE USER 'Sales'@'localhost' IDENTIFIED BY 'sales123';
 CREATE USER 'IT'@'localhost' IDENTIFIED BY 'it123';
